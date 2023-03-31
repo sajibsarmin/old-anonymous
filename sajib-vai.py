@@ -2510,7 +2510,7 @@ class Main:
 
 		sys.stdout.write(
 
-			"\r [𝐒𝐇𝐀𝐌𝐈𝐌 ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [𝐒ajib ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 
 		); sys.stdout.flush()
 
